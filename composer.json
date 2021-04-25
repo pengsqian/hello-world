@@ -1,0 +1,13 @@
+{
+    "name": "peng/demo1",
+    "description": "test",
+    "authors": [
+        {
+            "name": "钱鹏",
+            "email": "jess.qian@55haitao.com"
+        }
+    ],
+    "require": {
+	"monolog/monolog": "1.0.*"
+    }
+}
